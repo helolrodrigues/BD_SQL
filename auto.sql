@@ -44,9 +44,3 @@ select * from automovel;
 select marca, valor from automovel;
 select * from automovel where idauto = 3;
 select modelo, marca from automovel where idauto = 3;
-
-
-#				  |\
-# 0===============| |
-# 0===============| |
-#				  |/
